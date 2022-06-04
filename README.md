@@ -9,4 +9,4 @@ QGIS was used to design a geospatial visualization of Vehicle crime in Greater M
 Anti-Social Crime in Salford
 ![anti social behavior in salford](https://user-images.githubusercontent.com/98927917/172021652-6e0ef791-727c-4ac1-85f5-6a4d21d79c9a.png)
 
-![anti social behavior in salford](https://user-images.githubusercontent.com/98927917/172026300-ca452214-3870-4a5d-903f-60571163c872.png)
+
