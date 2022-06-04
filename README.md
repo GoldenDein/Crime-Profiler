@@ -3,6 +3,7 @@ This project utilizes advanced SQL techniques and geospatial analysis to evaluat
 The project involes designing and implementing a simple reporting system using SQL Server and QGIS as a presentation layer. Procedures and views were used to created summarised crime reports with local population data between Jan 2017 and Dec 2018.
 
 Spatial Analysis with QGIS
+
 QGIS was used to design a geospatial visualization of Vehicle crime in Greater Manchester and Anti-Social Crime in Salford. The respective Views were added as a layers using the MSSQL connection to connect to the database. OpenStreetMap and Google satellite Map were used as base layer to visualize the data.
 ![vehicle crime](https://user-images.githubusercontent.com/98927917/172021546-34ada130-682f-40cf-9221-fde28d5c4d96.png)
 
